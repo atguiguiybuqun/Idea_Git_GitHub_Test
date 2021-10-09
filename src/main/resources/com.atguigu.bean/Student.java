@@ -8,6 +8,7 @@ public class Student {
         System.out.println("First Test hot_fix-01 Git");
         System.out.println("First Test hot_fix-02 Git - online modify");
         System.out.println("First Test hot_fix-02 Git");
+        System.out.println("First Test Gitee Test");
 
     }
 }
