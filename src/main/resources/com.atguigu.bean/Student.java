@@ -6,6 +6,7 @@ public class Student {
         System.out.println("Second Test Git-02");
         System.out.println("Test Conflict with hot-fix");
         System.out.println("First Test hot_fix-01 Git");
+        System.out.println("First Test hot_fix-02 Git - online modify");
         System.out.println("First Test hot_fix-02 Git");
 
     }
