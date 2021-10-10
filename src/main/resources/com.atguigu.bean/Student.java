@@ -10,5 +10,9 @@ public class Student {
         System.out.println("First Test hot_fix-02 Git");
         System.out.println("First Test Gitee Test");
         System.out.println("First Test Gitee Test2");
+        System.out.println("First Test Gitlab Test1");
+        System.out.println("First Test Gitlab Test2");
+
+
     }
 }
