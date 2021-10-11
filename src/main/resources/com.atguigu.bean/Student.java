@@ -12,6 +12,7 @@ public class Student {
         System.out.println("First Test Gitee Test2");
         System.out.println("First Test Gitlab Test1");
         System.out.println("First Test Gitlab Test2");
+        System.out.println("First Test Ubuntu-Gitlab-Test-01");
 
 
     }
